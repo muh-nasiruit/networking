@@ -1,5 +1,5 @@
 # Data Communication and Networking
-Learning Topologies and implementing them on a simulator.
+Learning about Topologies, networking devices (Hub/Bridge/Switch, Router, and, PC/Servers etc.)  and network protocols and implementing them on a simulator.
 
 ## Dependancy
 1. Download and Install CISCO Packet Tracer
